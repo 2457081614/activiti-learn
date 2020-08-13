@@ -8,3 +8,6 @@ spring:
     username: root
     password: FFFFFREWRET%GFHGJ23243dsdsf
     driver-class-name: com.mysql.jdbc.Driver
+#logging:
+#  level:
+#    root: debug
